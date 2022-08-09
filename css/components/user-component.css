@@ -11,8 +11,8 @@
   .user-component__avatar {
     width: 71px;
     height: 71px;
-    border-radius: 30px;
-    margin-right: 20px;
+    border-radius: 3px;
+    margin-right: 2px;
   }
   
   .user-component__title {
